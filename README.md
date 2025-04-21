@@ -95,32 +95,10 @@ follow these simple steps:
 
 ## Sample Screenshots
 
-<br>
-
-There are 3 models used in MOVICO:
-
-<br>
-
-* MODEL1 : USER-BASED COLLABORATIVE FILTERING
-  
   * ![Image](https://github.com/user-attachments/assets/096cbb9d-37c6-432b-bceb-96855212eafe)
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/783d5481-a29b-415f-be1a-4f63f370e805)
-
-<br>
-  
-* MODEL2 : KNN-BASED COLLABORATIVE FILTERING
-  
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/cf882aa5-8474-4091-84f8-7dcbe38336e6)
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/531ae7b9-4492-4f7b-83b5-c20c89fdd7a2)
-
-<br>
-
-* MODEL3 : SVD-BASED COLLABORATIVE FILTERING
-  
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
-  
-<br>
+  * ![Image](https://github.com/user-attachments/assets/be76d628-f99c-440c-b2bb-91504e57eff4)
+  * ![Image](https://github.com/user-attachments/assets/05b73d61-799b-421a-8236-0a2a9a527466)
+  * ![Image](https://github.com/user-attachments/assets/163a56d7-4c80-4fda-941e-0bb1962880d2)
 
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
 
