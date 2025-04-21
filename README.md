@@ -71,27 +71,60 @@ Design an interactive **Streamlit dashboard** to visualize and analyze global ha
 
 follow these simple steps: 
 
-2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
+1. **Launch** ```Visual Studio``` on your system, using Anaconda.
 <br>
 
-3. **Navigate** to the ``` 'Happy 2024' ``` Directory in that.
+2. **Navigate** to the ``` 'Happy 2024' ``` Directory in that.
   ```sh
   Happy 2024.ipynb
   ```
 <br>
 
-4. **Open** the **```Happy 2024.ipynb```** file in Jupter Notebook. 
+3. **Open** the **```Happy 2024.ipynb```** file in Jupter Notebook. 
 <br>
 
-5. **Run-all cells**,
+4. **Run-all File**,
+
+    by clicking ```Terminal``` click on ```New Terminal```,
+
+   Write the code in terminal ```Streamlit run Happy 2024.py ```
+
+   This shall execute all the Code.
+   
+<br>
+
+## Sample Screenshots
+
+<br>
+
+There are 3 models used in MOVICO:
+
+<br>
+
+* MODEL1 : USER-BASED COLLABORATIVE FILTERING
   
-   Run the file,
-     by clicking '''Terminal''' click on '''"New Terminal"''',
+  * ![Image](https://github.com/user-attachments/assets/096cbb9d-37c6-432b-bceb-96855212eafe)
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/783d5481-a29b-415f-be1a-4f63f370e805)
 
-   Write the code in terminal ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
-
-   This shall execute all the cells in the notebook.
 <br>
+  
+* MODEL2 : KNN-BASED COLLABORATIVE FILTERING
+  
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/cf882aa5-8474-4091-84f8-7dcbe38336e6)
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/531ae7b9-4492-4f7b-83b5-c20c89fdd7a2)
+
+<br>
+
+* MODEL3 : SVD-BASED COLLABORATIVE FILTERING
+  
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
+  
+<br>
+
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
+
+<a name="a5"></a>
 
 
 
